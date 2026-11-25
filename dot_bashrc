@@ -162,3 +162,6 @@ fi
 
 # === set vim keybindings in the CLI === 
 set -o vi
+
+# === activate mise in Bash === 
+eval "$(mise activate bash)"
