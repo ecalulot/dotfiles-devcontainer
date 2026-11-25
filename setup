@@ -1,0 +1,1 @@
+echo "set -o vi" >> ~/.bashrc # set vim keybindings in the CLI
