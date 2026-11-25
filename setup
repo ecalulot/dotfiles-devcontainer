@@ -1,6 +1,4 @@
 #!/bin/bash
 
-# === set vim keybindings in the CLI === 
-echo
+echo "# === set vim keybindings in the CLI === " >> ~/.bashrc
 echo "set -o vi" >> ~/.bashrc
-
